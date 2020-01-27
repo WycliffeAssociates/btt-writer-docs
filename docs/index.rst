@@ -5,7 +5,7 @@
 Bible Translation Tools Writer (BTT Writer) v1.0 Documentation
 ===============================
 
-Here is documentation for using the translationStudio program.
+Here is documentation for using the BTT Writer program.
 
 
 Contents:
