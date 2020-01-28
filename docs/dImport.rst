@@ -71,9 +71,9 @@ Follow this process to import a usfm file:
  
 2.	The program opens the file explorer to the BTT Writer backups folder. Navigate to find the desired file. **Hint**: you will be able to view only the files that have an extension of txt or usfm.
 
-3.	Click to select the desired file, and then click **Open**. 
+3.	Make note of the language code contained in the file name, because you may need it in the next step. Click the desired file, and then click **Open**. 
 
-4.	Click to select the target language on the 'Choose a Target Language' screen. You can search for a language by typing the first few letters of the language in the search field. 
+4.	The USFM file itself may not contain the name of the target language. If not, you’ll need to tell BTT Writer what target language the project uses. On the 'Choose a Target Language' screen you can search for the language by typing its code in the search field. Use the language code that you made note of from the file name.  Click the target language to select it. 
  
 5.	The remaining screens depend on what information is contained in the USFM file. 
 
