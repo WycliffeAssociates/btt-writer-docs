@@ -63,7 +63,7 @@ Follow this process to import a tstudio file:
 Import USFM File
 -------------------
 
-This process imports a file that is formatted as a USFM document. United Standard Format Marker (USFM) is the international standard of Biblical text. 
+This process imports a file that is formatted as a USFM document. Unified Standard Format Marker (USFM) is the international standard of Biblical text. 
 
 Follow this process to import a usfm file:
 
