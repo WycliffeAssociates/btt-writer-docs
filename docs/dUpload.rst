@@ -48,7 +48,7 @@ Follow this process to upload to the server:
 Export to USFM File
 -------------------
 
-This creates a file of your project with a usfm extension. United Standard Format Marker (USFM) is the international standard of Biblical text. 
+This creates a file of your project with a usfm extension. Unified Standard Format Marker (USFM) is the international standard of Biblical text. 
 
 Follow this process to export, or save, the project to a usfm file:
 
