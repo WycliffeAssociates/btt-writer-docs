@@ -70,7 +70,7 @@ navigate to the desired file. Hint: you will be able to view only the files that
 3. Import USFM File
 -------------------
 
-This process imports a file that is formatted as a USFM document. United Standard Format Marker (USFM) is the international standard of 
+This process imports a file that is formatted as a USFM document. Unified Standard Format Marker (USFM) is the international standard of 
 Biblical text. 
 
 Follow this process to import a usfm file:
