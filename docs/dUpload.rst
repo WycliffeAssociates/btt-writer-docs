@@ -10,7 +10,8 @@ BTT Writer for the Desktop: Uploading or Exporting Your Work
 Watch the Video
 ----------------------------------------
 
-`Uploading and Exporting in BTT Writer for the Desktop <    
+`Uploading and Exporting in BTT Writer for the Desktop <https://youtu.be/p3BdGn6Opvc>`_    
+
 
 Introduction
 -------------------------------
