@@ -6,7 +6,14 @@ BTT Writer for the Desktop: Uploading or Exporting Your Work
     :align: center
     :height: 200px
     :alt: BTT Writer for the Desktop
+    
+Watch the Video
+----------------------------------------
 
+`Uploading and Exporting in BTT Writer for the Desktop <    
+
+Introduction
+-------------------------------
 
 When you work in BTT Writer, your text is saved every five minutes to your computer. Your work is not saved to the server (WACS or DCS) until you explicitly upload it.
 
