@@ -7,6 +7,13 @@ BTT Writer for the Desktop: Importing a Project
     :height: 200px
     :alt: BTT Writer for the Desktop
 
+Watch the Video
+----------------------------
+
+`Importing into BTT Writer <https://youtu.be/JDI4ncCp0P4>`_
+
+Introduction
+----------------------------
 
 The BTT Writer program enables you to import a project from various sources. To import a project:
  
