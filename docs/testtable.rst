@@ -8,45 +8,48 @@ Power Point Presentations (with PDFs)
    :header-rows: 1
 
    * - Title
-     - Android
-     - Desktop
+     - Powerpoint
+     - PDF
      
-   * - **Getting Started**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pdf>`_
+   * - **Installing BTT Recorder 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Installing_v1.4.x.pdf>`_ 
 
-   * - **Starting a New Project**
-     -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANewProject.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANewProject.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNewProject.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNewProject.pdf>`_ 
+   * - **BTT Recorder User Setup 1.4**
+     -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_User_Setup_1.4.pdf>`_  
 
-   * - **Performing Navigation**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANavigation.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DNavigation.pdf>`_
+   * - **BTT Recorder Menus and Icons 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pptx>`_ 
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Menus_and_Icons_v1.4.pdf>`_
      
-   * - **Performing Translation**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ATranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ATranslate.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DTranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DTranslate.pdf>`_
+   * - **Starting a New Project using the Recording Section 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Record_Section_v1.4.x.pdf>`_
      
-   * - **Translating Footnotes**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AFootnote.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DFootnote.pdf>`_  
+   * - **Starting a New Project using Project Management 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Starting_a_New_Project_Project_Management_v1.4.pdf>`_  
      
-   * - **Uploading, Exporting, and Importing a Project**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpload.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpload.pdf>`_
+   * - **Recording from Project Management - Oral Translations - WITH source audio 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Recording_from_PM-Audio_Recordings_Without_Source_Audio%20v1.4.pdf>`_
 
-   * - **Changing Program Settings**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AChangeSettings.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DChangeSettings.pdf>`_
+   * - **Editing in Project Management 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Project_Management_v1.4.pdf>`_
 
-   * - **Updating Program Elements** 
+   * - **Editing Recordings - Cutting and Inserting 1.4** 
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_Cutting_and_Inserting_v1.4.pdf>`_
 
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpdate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AUpdate.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DUpdate.pdf>`_
-
-   * - **Publishing a Project**
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/APublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/APublish.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DPublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DPublish.pdf>`_
+   * - **Editing Recordings - Verse Markers and Rating 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Editing_VerseMarkers_and_Rating_v1.4.pdf>`_
+     
+   * - **Create Chapter Recordings 1.4**
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pptx>`_
+     - \ `PDF <https://github.com/WycliffeAssociates/btt-recorder-docs/blob/master/appendix/BTTRecorder_Create_Chapter_Recording_v1.4.pdf>`_
      
 \* *Click* **Download** *on the linked page to download the PowerPoints.*
 
