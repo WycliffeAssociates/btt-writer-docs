@@ -7,7 +7,7 @@ BTT Writer for the Desktop: Getting Started
     :height: 200px
     :alt: BTT Writer for the Desktop
     
-Watch the videos:
+Watch the videos
 ---------------------------
 
 `Installation video <https://www.youtube.com/watch?v=KuL39C_3ttg>`_       
