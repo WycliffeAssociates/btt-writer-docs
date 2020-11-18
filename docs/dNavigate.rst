@@ -7,7 +7,7 @@ BTT Writer for the Desktop: Performing Navigation
     :height: 200px
     :alt: BTT Writer for the Desktop
     
-Watch the Video:
+Watch the Video
 ------------------------
 
 `Navigating in BTT Writer <https://www.youtube.com/watch?v=tvjEHcQ5rCE>`_
