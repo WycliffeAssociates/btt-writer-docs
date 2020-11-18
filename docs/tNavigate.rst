@@ -55,7 +55,7 @@ The project screen can display three different views of the texts that you can a
    * Swipe from the right to the left side, or tap in the right margin, to show the resources for that chunk.
    
 Resources
-^^^^^^^^^
+----------
 
 When you are in the *Check view*, you have Bible resources available to you to assist in checking and refining the draft. Swipe from the right to the left side, or tap in the right margin, to show the resources for that chunk.
 
