@@ -8,7 +8,7 @@ BTT Writer for the Desktop: Starting a Translation Project
     :height: 200px
     :alt: BTT Writer for the Desktop
 
-Watch the video:
+Watch the video
 -----------------------------------
 
 `Setting Up Your Work <https://www.youtube.com/watch?v=7ltmv3x9nN4>`_
