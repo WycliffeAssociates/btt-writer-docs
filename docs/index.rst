@@ -1,11 +1,3 @@
-.. raw:: html
-
-    <style> .red {color:red} </style>
-
-.. role:: red
-
-:red:`test - this text should be red`
-
 .. Resource Container documentation master file, created by
    sphinx-quickstart on Tue Sep 20 15:27:28 2016.
    You can adapt this file completely to your liking, but it should at least
