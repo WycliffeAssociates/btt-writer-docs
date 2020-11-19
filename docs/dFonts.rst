@@ -36,4 +36,4 @@ To copy the font to where it is visible to BTT Writer, you must run the command 
     
     where [file_name] is the name of the font file (such as bamini.ttf) and [user name] is the directory that corresponds to the user who installed the font.
 
-You should now be able to see the font in BTT Writer. If you don’t see it at first, you may need to close and reopen BTT Writer.
+You should now be able to see the new font in BTT Writer's font list when you try to change the target or source text font in settings. If you don’t see the new font at first, try closing and reopening BTT Writer.
