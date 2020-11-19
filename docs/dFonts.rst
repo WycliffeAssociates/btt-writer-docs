@@ -16,18 +16,20 @@ To fix this, you can copy the font file from the user’s local directory to the
 
 To copy the font to where it is visible to BTT Writer, you must use the command prompt and run it as an administrator, then use the copy command to copy the font file. To do this, perform the following steps:
 
-1.	Press the [Windows] key (or click the Windows icon in the task ribbon) to invoke the Start menu.
+1.	Press the **[Windows] key** (or click the Windows icon in the task ribbon) to invoke the Start menu.
 
 2.	Start typing the word “command” to search for the command prompt.
 
-3.	Windows displays the search results. If Command Prompt is not  highlighted, click the right arrow next to Command Prompt.
+3.	Windows displays the search results. If Command Prompt is not  highlighted, click the **right arrow** next to Command Prompt.
 
-4.	On the right side of the window, click Run as Administrator.
+4.	On the right side of the window, click **Run as Administrator**.
 
-5.	If prompted to allow the app to make changes, click Yes.
+5.	If prompted to allow the app to make changes, click **Yes**.
 
 6.	In the command prompt screen, issue the following command:
+
     **copy c:\\Users\\[user name]\\AppData\\Local\\Microsoft\\Windows\\Fonts\\[file name] c:\\windows\\fonts**
+    
     where [file_name] is the name of the font file (i.e. bamini.ttf) and [user name] is the directory that corresponds to the user who installed the font.
 
 You should now be able to see the font in BTT Writer (you may need to close and reopen BTT Writer if you don’t see it at first).
