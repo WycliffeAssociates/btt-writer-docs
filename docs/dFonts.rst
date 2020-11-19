@@ -7,7 +7,7 @@ BTT Writer for the Desktop: Adding Fonts
     :height: 200px
     :alt: BTT Writer for the Desktop
 
-BTT Writer looks for fonts in the c:\\Windows\\Fonts directory. However, Windows 10 stores user-installed fonts in the Microsoft\Windows\Fonts subdirectory of the user’s local directory: 
+BTT Writer looks for fonts in the c:\\Windows\\Fonts directory. However, Windows 10 stores user-installed fonts in the Microsoft\\Windows\\Fonts subdirectory of the user’s local directory: 
    c:\\Users\\[user name]\\AppData\\Local\\Microsoft\\Windows\\Fonts 
    
 Microsoft can use these fonts in its applications, such as Word, but BTT Writer doesn’t look for fonts there.
