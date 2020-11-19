@@ -10,6 +10,8 @@ BTT Writer for the Desktop: Adding Fonts
 If you install a new font on your Windows 10 PC, how can you get BTT Writer to use that font? Fonts of the target and source text can be changed in BTT Writer's General settings, but what if your new font is not visible in the font list?
 
 Windows 10 stores user-installed fonts in the Microsoft\\Windows\\Fonts subdirectory of the user’s local directory: 
+
+
    c:\\Users\\[user name]\\AppData\\Local\\Microsoft\\Windows\\Fonts 
    
 Microsoft can use these fonts in its applications, such as Word, but BTT Writer looks for fonts only in the c:\\Windows\\Fonts directory.
