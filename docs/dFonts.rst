@@ -12,7 +12,7 @@ BTT Writer looks for fonts in the c:\\Windows\\Fonts directory. However, Windows
    
 Microsoft can use these fonts in its applications, such as Word, but BTT Writer doesn’t look for fonts there.
 
-To fix this, you can copy the font file from the user’s local directory to the Windows fonts directory. However, you can’t use File Explorer to do this, because when you open c:\Windows\Fonts in File Explorer, it displays all installed fonts, including the user-installed ones.
+To fix this, you can copy the font file from the user’s local directory to the Windows fonts directory. However, you can’t use File Explorer to do this, because when you open c:\\Windows\\Fonts in File Explorer, it displays all installed fonts, including the user-installed ones.
 
 To copy the font to where it is visible to BTT Writer, you must use the command prompt and run it as an administrator, then use the copy command to copy the font file. To do this, perform the following steps:
 
