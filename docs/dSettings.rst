@@ -28,19 +28,19 @@ General Settings
 
 The General settings are as follows:
 
-1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See  `How do I set up to translate Bible resources (GL project)? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources-gl-project>`_.
+1. **Gateway Language Mode**: Select this setting if you are working to translate Bible resources into a gateway language. See `How do I set up to translate Bible resources (GL project)? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-bible-resources-gl-project>`_.
   
 2. **Blind Edit Mode**: Select this setting to enable the Blind Edit view for a text project. See `How do I set up to translate the Bible or Open Bible Stories? <https://btt-writer.readthedocs.io/en/latest/desktop.html#how-do-i-set-up-to-translate-the-bible-or-open-bible-stories>`_.
 
 3. **Target Translation Font**: The font of the translated text
 
-  * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text.
+  * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
   
   * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**.
   
 4.	**Source Translation Font**: The font of the source text
 
-  * The name of the chosen font is displayed. 
+  * The name of the chosen font is displayed. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
 
   * Click **Source Translation Font** to change the displayed font in the source.
 
