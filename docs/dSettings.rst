@@ -34,17 +34,17 @@ The General settings are as follows:
 
 3. **Target Translation Font**: The font of the translated text
 
-  * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
+  * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text.
   
-  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**.
+  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
   
 4.	**Source Translation Font**: The font of the source text
 
-  * The name of the chosen font is displayed. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
+  * The name of the chosen font is displayed. 
 
   * Click **Source Translation Font** to change the displayed font in the source.
 
-  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font. When you have selected a font, the pop-up window disappears.
+  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font. When you have selected a font, the pop-up window disappears. (If you have installed a font to your Windows PC but it does not appear in the list, See `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dfonts.html>`_.)
  
  
 5.	 **Target Translation Font Size**: The size of the translated text
