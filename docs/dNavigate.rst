@@ -161,7 +161,7 @@ Using the Resources
 
 All of the Notes, Words and Questions are included in the BTT Writer program. They are available to use in any text project.
 
-**Note**: If you do not see the Words tab in the resources pane, you may need to reload the source text (see `Updating Program Elements: Downloading Available Source Texts) https://btt-writer.readthedocs.io/en/latest/dtSupdates.html#downloading-available-source-texts`_).
+**Note**: If you do not see the Words tab in the resources pane, you may need to reload the source text (see `Updating Program Elements: Downloading Available Source Texts <https://btt-writer.readthedocs.io/en/latest/dtSupdates.html#downloading-available-source-texts>`_).
 
 The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
 
