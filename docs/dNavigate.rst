@@ -161,8 +161,6 @@ Using the Resources
 
 All of the Notes, Words and Questions are included in the BTT Writer program. They are available to use in any text project.
 
-**Note**: If you do not see the Words tab in the resources pane, you may need to reload the source text (see `Updating Program Elements: Downloading Available Source Texts <https://btt-writer.readthedocs.io/en/latest/dtSupdates.html#downloading-available-source-texts>`_).
-
 The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
 
 The Resources pane is divided into four tabs: Notes, Words, Questions, and UDB. The UDB tab simply contains the UDB (Unlocked Dynamic Bible) text for the chunk.
@@ -180,6 +178,7 @@ Words
 ^^^^^^^^^^^^^^^^
 
 Click the Words tab. 
+**Note**: If you do not see the Words tab in the resources pane, you may need to reload the source text (see `Updating Program Elements: Downloading Available Source Texts <https://btt-writer.readthedocs.io/en/latest/dtSupdates.html#downloading-available-source-texts>`_).
   
 The words are listed as they appear in the story or in the ULB. Click the word or phrase for help in understanding how to translate the word into the target language.
 
