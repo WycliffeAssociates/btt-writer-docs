@@ -7,7 +7,10 @@ BTT Writer for the Desktop: Adding Fonts
     :height: 200px
     :alt: BTT Writer for the Desktop
 
-If you install a new font on your Windows 10 PC, how can you get BTT Writer to use that font? Fonts of the target and source text can be changed in BTT Writer's General settings, but what if your new font is not visible in the font list?
+If you install a new font on your computer, how can you get BTT Writer to use that font? Fonts of the target and source text can be changed in BTT Writer's General settings, but what if your new font is not visible in the font list?
+
+For Windows
+-----------
 
 Windows 10 stores user-installed fonts in the Microsoft\\Windows\\Fonts subdirectory of the user’s local directory: 
 
@@ -37,3 +40,13 @@ To copy the font to where it is visible to BTT Writer, you must run the command 
     where [file_name] is the name of the font file (such as bamini.ttf) and [user name] is the directory that corresponds to the user who installed the font.
 
 You should now be able to see the new font in BTT Writer's font list when you try to change the target or source text font in settings. If you don’t see the new font at first, try closing and reopening BTT Writer.
+
+For MAC
+-------
+
+For Mac users, the same problem can be resolved by copying the font to /Library/Fonts.
+
+For Linux
+---------
+
+For Linux users, install the font to /usr/share/fonts/truetype. Although the other fonts in this folder are in subfolders, if you put the fonts you install into subfolders, BTT Writer will be unable to find them.
