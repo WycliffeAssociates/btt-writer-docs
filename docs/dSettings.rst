@@ -36,7 +36,7 @@ The General settings are as follows:
 
   * The name of the chosen font is displayed. Click **Target Translation Font** to change the displayed font in the text.
   
-  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**. (If you have installed a font to your Windows PC but it does not appear in the list, see `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dFonts.html>`_.)
+  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font, and then click **CONFIRM**. (If you have installed a font to your computer but it does not appear in the list, see `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dFonts.html>`_.)
   
 4.	**Source Translation Font**: The font of the source text
 
@@ -44,7 +44,7 @@ The General settings are as follows:
 
   * Click **Source Translation Font** to change the displayed font in the source.
 
-  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font. When you have selected a font, the pop-up window disappears. (If you have installed a font to your Windows PC but it does not appear in the list, see `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dFonts.html>`_.)
+  * A pop-up window shows the available fonts. Scroll through the names of the fonts and click the name to select the desired font. When you have selected a font, the pop-up window disappears. (If you have installed a font to your computer but it does not appear in the list, see `Adding Fonts <https://btt-writer.readthedocs.io/en/latest/dFonts.html>`_.)
  
  
 5.	 **Target Translation Font Size**: The size of the translated text
