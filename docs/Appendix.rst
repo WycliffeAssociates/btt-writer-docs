@@ -35,6 +35,9 @@ Use these handouts to give to the mother-tongue translators. This might help the
 Videos
 -------
 
+DESKTOP VIDEOS:
+^^^^^^^^^^^^^^^
+
 `Creating a Server Account in BTT Writer for the Desktop <https://www.youtube.com/watch?v=NtgsnTCL_c4&list=PLNQBr_Ya9na-a7f9EEILqxPyoNCnXpRGy&index=10&t=2s>`_
 
 `Starting a New Project in BTT Writer for the Desktop <https://youtu.be/yu1gc0fTh4k>`_
@@ -47,6 +50,8 @@ Videos
 
 `Uploading to the Server in BTT Writer for the Desktop <https://youtu.be/cIh8gS3jBgo>`_
 
+ANDROID VIDEOS
+^^^^^^^^^^^^^^^
 
 `Installing BTT Writer on an Android Tablet <https://youtu.be/rIxEcGSOJu0>`_
 
@@ -58,7 +63,7 @@ Videos
 
 `Translating and Editing with BTT Writer for Android <https://youtu.be/7LGmnx6bIKI>`_
 
-`Uploading and Importing in BTT Writer for Android https://youtu.be/yeur2eGu5yU<>`_
+`Uploading and Importing in BTT Writer for Android <https://youtu.be/yeur2eGu5yU>`_
 
 
 Power Point Presentations (with PDFs)
