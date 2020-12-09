@@ -35,7 +35,19 @@ Use these handouts to give to the mother-tongue translators. This might help the
 Videos
 -------
 
-Sign up for the `BTT Writer playlist <https://www.youtube.com/playlist?list=PLwtF1YaXfQQEiK-xR8yFEagqk5w2-y4hs>`_ on YouTube! 
+`Creating a Server Account in BTT Writer for the Desktop <https://www.youtube.com/watch?v=NtgsnTCL_c4&list=PLNQBr_Ya9na-a7f9EEILqxPyoNCnXpRGy&index=10&t=2s>`_
+`Starting a New Project in BTT Writer for the Desktop <https://youtu.be/yu1gc0fTh4k>`_
+`Changing the Target Language in BTT Writer for the Desktop <https://youtu.be/9vwZ-dIKQ7Q>`_
+`Changing the Server Setting in BTT Writer for the Desktop <https://youtu.be/vJyTlyAU9_4>`_
+`Translating Footnotes in BTT Writer for the Desktop <https://youtu.be/1n1E2Om6Mg8>`_
+`Uploading to the Server in BTT Writer for the Desktop <https://youtu.be/cIh8gS3jBgo>`_
+
+`Installing BTT Writer on an Android Tablet <https://youtu.be/rIxEcGSOJu0>`_
+`Opening BTT Writer on a Tablet <https://youtu.be/JfS0KQp1RJc>`_
+`Creating a Server Account in BTT Writer for Android <https://youtu.be/hHs1ZCEftvY>`_
+`Agreeing to Terms of Use in BTT Writer for Android <https://youtu.be/-i8IGNaeneU>`_
+`Translating and Editing with BTT Writer for Android <https://youtu.be/7LGmnx6bIKI>`_
+`Uploading and Importing in BTT Writer for Android https://youtu.be/yeur2eGu5yU<>`_
 
 
 Power Point Presentations (with PDFs)
