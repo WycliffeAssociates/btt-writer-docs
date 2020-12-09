@@ -32,9 +32,17 @@ Use these handouts to give to the mother-tongue translators. This might help the
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Translation_Handout.pdf>`_
 
 
-Videos
--------
+Video Demonstrations
+-----------------------
 
+.. list-table:: **Video Demos**
+   :widths: 10 30
+   :header-rows: 1
+
+   * - Title
+     - Android
+     - Desktop
+     
 DESKTOP VIDEOS:
 ^^^^^^^^^^^^^^^
 
