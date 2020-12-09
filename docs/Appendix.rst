@@ -81,7 +81,7 @@ Power Point Presentations (with PDFs)
      
    * - **Getting Started**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/AGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/AGetStarted.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pdf>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DGetStarted.pdf>`_
 
    * - **Starting a New Project**
      -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/ANewProject.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/ANewProject.pdf>`_
