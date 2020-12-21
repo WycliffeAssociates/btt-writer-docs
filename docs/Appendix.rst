@@ -108,7 +108,14 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/APublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/APublish.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DPublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/DPublish.pdf>`_
      
+Manuals
+-------------
 
+You can download the following user manuals with screenshots (PDF format):
+
+`BTT Writer for the Desktop <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/BTTwriterDocumentationDesktop.pdf>`_
+
+`BTT Writer for Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/BTTwriterDocumentationTablet.pdf>`_
 
 
 
