@@ -9,7 +9,9 @@ BTT Writer for Android™: Working with Footnotes
     :alt: BTT Writer for Android
 
 A footnote is additional information about a certain part of the text. The footnote usually appears at the bottom of a book’s page.
+
 In BTT Writer, a footnote is shown as a black page icon that you tap to display the footnote.
+
 Footnotes can provide further explanation when:
 
 * There are names or other words that differ between various Bible versions
