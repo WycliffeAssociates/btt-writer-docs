@@ -8,13 +8,13 @@ BTT Writer for Android™: Working with Footnotes
     :height: 245px
     :alt: BTT Writer for Android
 
-A footnote is additional text that usually appears at the bottom of a book’s page and is referenced within the page.
-In translationStudio, a footnote is shown as a black page icon that you tap to display the footnote.
+A footnote is additional information about a certain part of the text. The footnote usually appears at the bottom of a book’s page.
+In BTT Writer, a footnote is shown as a black page icon that you tap to display the footnote.
 Footnotes can provide further explanation when:
 
-*	There are proper names, words or terms that differ between various Bible versions
+* There are names or other words that differ between various Bible versions
 
-* There are missing words or verses in the ULB. (There may be text in one Bible version that is not present in the ULB.)
+* Some versions of the Bible have words or verses that are not in the ULB.
 
 To translate a footnote:
 
