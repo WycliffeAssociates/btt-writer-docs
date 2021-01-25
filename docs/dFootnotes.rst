@@ -8,15 +8,15 @@ BTT Writer for the Desktop: Translating Footnotes
     :alt: BTT Writer for the Desktop
 
 
-A footnote is additional text that usually appears at the bottom of a book’s page and is referenced within the page.
+A footnote is additional information about a certain part of the text. The footnote usually appears at the bottom of a book’s page.
 
 In BTT Writer, a footnote is shown as a black page icon that you click to display the footnote. For example, there is a footnote in 1 Cor. 10:28.
 
 Footnotes can provide further explanation when:
 
-* There are proper names, words or terms that differ between various Bible versions
+* There are names or other words that differ between various Bible versions.
 
-* There are missing words or verses in the ULB. (There may be text in one Bible version that is not present in the ULB.)
+* Some versions of the Bible have words or verses that are not in the ULB.
 
 To translate a footnote:
 ************************
@@ -73,7 +73,7 @@ To translate a footnote:
            
         and separate from the surrounding text by spaces. 
  
-4)	Translate the footnote text.
+4)	Translate the footnote.
 
     * Translate the text of the footnote.
  
