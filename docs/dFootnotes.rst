@@ -69,7 +69,7 @@ To translate a footnote:
       
         ::
             
-           \fqb
+           \fqa*
            
         and separate from the surrounding text by spaces. 
  
@@ -87,7 +87,7 @@ For example, the code for the chunk containing the footnote in 1 Cor. 10:28 look
 
     \v 28 But if someone says to you, "This food was from a pagan sacrifice," do not eat it. This is 
     for the sake of the one who informed you, and for the sake of conscience. \f + \ft Some ancient 
-    copies of the Greek text add, \fqa For the earth and everything in it belong to the Lord. \fqb But 
+    copies of the Greek text add, \fqa For the earth and everything in it belong to the Lord. \fqa* But 
     the best copies of the Greek text do not have this. Many scholars see this addition as a
     duplication of verse 26 \f* \v 29 I do not mean your own conscience, but the other person's conscience. 
     For why should my freedom be judged by another's conscience? \v 30 If I partake of the meal with 
