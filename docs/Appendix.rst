@@ -55,7 +55,7 @@ Video Demonstrations
      - `Changing the Server Setting <https://youtu.be/vJyTlyAU9_4>`_
 
    * - `Translating and Editing <https://youtu.be/7LGmnx6bIKI>`_
-     - `Translating Footnotes <https://www.youtube.com/channel/UCZUNI4zdU7mrrQBIwHSCYtw>`_
+     - `Translating Footnotes <https://www.youtube.com/watch?v=AtF_kBw6Nwg>`_
      
    * - `Uploading and Importing <https://youtu.be/yeur2eGu5yU>`_
      - `Uploading to the Server <https://youtu.be/cIh8gS3jBgo>`_
