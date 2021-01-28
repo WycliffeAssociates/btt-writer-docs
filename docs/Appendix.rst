@@ -14,7 +14,7 @@ Use these handouts to give to the mother-tongue translators. This might help the
      - Links
 
    * - **All Handouts**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_AllHandouts.pdf>`_ 
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_AllHandouts.pdf>`_ 
    
    * - **Installing BTT Writer**
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/blob/master/docs/A_BTTWriter_Install_Handout.pdf>`_ 
