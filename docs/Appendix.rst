@@ -104,7 +104,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/AUpdate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/AUpdate.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpdate.pdf>`_
 
-   * - **Publishing a Project**
+   * - **Making Your Project Accessible**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/APublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/APublish.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DPublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DPublish.pdf>`_
      
