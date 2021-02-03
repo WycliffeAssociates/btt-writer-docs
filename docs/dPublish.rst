@@ -20,17 +20,21 @@ When you upload your work to the Wycliffe Associates Content Server (WACS) it is
 
 You can access a web version of your project at https://wacs.bibletranslationtools.org/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. Click **See in Reader** to see a read-friendly version of your project.
 
-From your WACS project page you can:
+The uploaded project is available online to anyone at the URL: https://content.bibletranslationtools.username/project_code. For user friendly content, click **See in Reader**
 
-*	See the web version of your project 
+Or use the URL https://read.bibletranslationtools.username/project_code.
+
+From the WACS project page you can:
+
+*	See the web version of a project 
 
 *   Download the repository as a zip or TAR file
 
-*	Download the source files (USFM) for your project
+*	Download the source files (USFM) for a project
 
 *   View or print warning and error messages
 
-*	Interact with others about your project
+*	Interact with others about a project
 
 *   Print the translation
 
