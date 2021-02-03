@@ -16,13 +16,9 @@ Accessibility means making a Bible translation available in whatever format the 
 Making Accessible on WACS
 ---------------------------------
 
-When you upload your work to the Wycliffe Associates Content Server (WACS) it is automatically available online under your user account.  You can upload to the server as often as you wish to create a backup of your work. (See `Upload/Export Your Work https://btt-writer.readthedocs.io/en/latest/dUpload.html>`_.) 
+When you upload your work to the Wycliffe Associates Content Server (WACS) it is automatically available online under your user account.  You can upload to the server as often as you wish to create a backup of your work. (See `Upload/Export Your Work <https://btt-writer.readthedocs.io/en/latest/dUpload.html>`_.) When you upload, BTT Writer displays the direct URL for your project on the WACS server.
 
-You can access a web version of your project at https://wacs.bibletranslationtools.org/user_name/project_name (where user_name is your user name and project_name is your translation project). BTT Writer gives you the correct link when you upload. Click **See in Reader** to see a read-friendly version of your project.
-
-The uploaded project is available online to anyone at the URL: https://content.bibletranslationtools.username/project_code. For user friendly content, click **See in Reader**
-
-Or use the URL https://read.bibletranslationtools.username/project_code.
+Uploaded translations are available online to anyone at the URL: https://content.bibletranslationtools.org. For user friendly content, click **See in Reader**, or use the URL https://read.bibletranslationtools.org.
 
 From the WACS project page you can:
 
@@ -81,6 +77,6 @@ You can use BTT Writer to ensure that the project is complete and that all contr
 
 **Must All Contributors Be Named?**
 
-Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list every contributor as they prefer to be mentioned.  Normally this is the person's name or pseudonym.
+Due to copyright laws (and these exist no matter what country you are in and no matter what people tell you about laws in that country), you must list every contributor as they prefer to be mentioned -- the person's name or pseudonym.
 
 
