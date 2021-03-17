@@ -14,12 +14,27 @@ For Windows
 
 Windows 10 stores user-installed fonts in the Microsoft\\Windows\\Fonts subdirectory of the user’s local directory: 
 
-
    c:\\Users\\[user name]\\AppData\\Local\\Microsoft\\Windows\\Fonts 
    
 Microsoft can use these fonts in its applications, such as Word, but BTT Writer looks for fonts only in the c:\\Windows\\Fonts directory.
 
-To fix this, you can copy the font file from the user’s local directory to the Windows Fonts directory. However, you can’t use File Explorer to do this, because when you open c:\\Windows\\Fonts in File Explorer, it displays all installed fonts, including the user-installed ones that are not actually in that directory.
+There are two ways around this problem:
+
+* You can make a font available to BTT Writer when you install the font.
+
+* You can take a font that has already been installed and make it available to BTT Writer.
+
+Installing a Font So That It Is Available to BTT Writer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Right-click the font file and select **Install for All Users**.
+ 
+You should now be able to use the font in any program, including BTT Writer (you may need to close and reopen BTT Writer if you don’t see it at first).
+
+Making an Installed Font Available to BTT Writer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+If a font is already installed but you can’t see it in BTT Writer, you can copy the font file from the user’s local directory to the Windows Fonts directory. However, you can’t use File Explorer to do this, because when you open c:\\Windows\\Fonts in File Explorer, it displays all installed fonts, including the user-installed ones that are not actually in that directory.
 
 To copy the font to where it is visible to BTT Writer, you must run the command prompt as an administrator and then use the copy command to copy the font file from the user's local directory to the c:\\Windows\\Fonts directory. To do this, perform the following steps:
 
