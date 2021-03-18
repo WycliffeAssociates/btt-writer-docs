@@ -54,13 +54,25 @@ Video Demonstrations
      - 
      
    * - `Agreeing to Terms of Use <https://youtu.be/-i8IGNaeneU>`_
-     - `Changing the Server Setting <https://youtu.be/vJyTlyAU9_4>`_
-
+     - 
+     
+   * -
+     - `Setting Up Your Work <https://youtu.be/Jlra2ltbWhY>`_
+     
+   * -
+     - `Navigating <https://youtu.be/GM3Z48eVOsw>`_
+     
    * - `Translating and Editing <https://youtu.be/7LGmnx6bIKI>`_
-     - `Translating Footnotes <https://www.youtube.com/watch?v=AtF_kBw6Nwg>`_
+     - `Performing Translation <https://youtu.be/2lR_ZyWyD5c>`_
+     
+   * - 
+     - `Checking and Editing <https://youtu.be/DUberj4Z1NQ>`_
      
    * - `Uploading and Importing <https://youtu.be/yeur2eGu5yU>`_
-     - `Uploading to the Server <https://youtu.be/cIh8gS3jBgo>`_
+     - `Uploading and Exporting <https://youtu.be/GnZEPp9uIUg>`_
+
+   * -
+     - `Importing Projects and Source Files <https://youtu.be/7XsO21BsH9g>`_
 
 Power Point Presentations (with PDFs)
 -------------------------------------
