@@ -45,13 +45,13 @@ Video Demonstrations
      - Desktop
 
    * - `Installing BTT Writer <https://youtu.be/rIxEcGSOJu0>`_
-     - `Creating a Server Account <https://www.youtube.com/watch?v=NtgsnTCL_c4&list=PLNQBr_Ya9na-a7f9EEILqxPyoNCnXpRGy&index=10&t=2s>`_
+     - `Installing BTT Writer <https://youtu.be/dnFNJDwgdJ0>`_
   
    * - `Opening BTT Writer <https://youtu.be/JfS0KQp1RJc>`_
-     - `Starting a New Project <https://youtu.be/yu1gc0fTh4k>`_
+     - `Getting Started <https://youtu.be/SXsBXMa8nvw>`_
      
    * - `Creating a Server Account <https://youtu.be/hHs1ZCEftvY>`_
-     - `Changing the Target Language <https://youtu.be/9vwZ-dIKQ7Q>`_
+     - 
      
    * - `Agreeing to Terms of Use <https://youtu.be/-i8IGNaeneU>`_
      - `Changing the Server Setting <https://youtu.be/vJyTlyAU9_4>`_
