@@ -35,6 +35,8 @@ Use these handouts to give to the mother-tongue translators. This might help the
 Video Demonstrations
 -----------------------
 
+`Complete playlist of BTT Writer Demos <https://www.youtube.com/playlist?list=PLNQBr_Ya9na8YU--s_Txvq3W_55PU2o7j>`_
+
 .. list-table:: **Video Demos**
    :widths: 30 30
    :header-rows: 1
