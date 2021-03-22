@@ -56,16 +56,16 @@ Video Demonstrations
    * - `Agreeing to Terms of Use <https://youtu.be/-i8IGNaeneU>`_
      - 
      
-   * -
+   * - `Starting a New Project <https://youtu.be/hh5pPfJkZOk>`_
      - `Setting Up Your Work <https://youtu.be/Jlra2ltbWhY>`_
      
-   * -
+   * - `Navigating <https://youtu.be/4f2cOgDTAqk>`_
      - `Navigating <https://youtu.be/GM3Z48eVOsw>`_
      
    * - `Translating and Editing <https://youtu.be/7LGmnx6bIKI>`_
      - `Performing Translation <https://youtu.be/2lR_ZyWyD5c>`_
      
-   * - 
+   * - `Translating Footnotes <https://youtu.be/Uf_jEcbh_a4>`_
      - `Checking and Editing <https://youtu.be/DUberj4Z1NQ>`_
      
    * - `Uploading and Importing <https://youtu.be/yeur2eGu5yU>`_
