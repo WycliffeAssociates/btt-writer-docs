@@ -7,11 +7,7 @@ In order to understand this topic, it would be good to read:
 
 `Parts of Speech <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/PartsOfSpeech.rst>`_
 
-`Parts of Speech <http://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/2427535ffe/03-translation%20topics.html#figs-partsofspeech>`_
-
 `Sentence Structure <https://github.com/unfoldingWord-dev/translationStudio-Info/blob/master/docs/SentenceStructure.rst>`_
-
-`Sentence Structure <http://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/2427535ffe/03-translation%20topics.html#figs-sentences>`_
 
 Abstract nouns are nouns that refer to attitudes, qualities, events, situations, or even to relationships among these ideas. These are things that cannot be seen or touched in a physical sense, such as happiness, weight, injury, unity, friendship, health, and reason. This is a translation issue because some languages may express a certain idea with an abstract noun, while others would need a different way to express it. For example, "What is its weight?" could be expressed as "How much does it weigh?" or "How heavy is it?"
 
