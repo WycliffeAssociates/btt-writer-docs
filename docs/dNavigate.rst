@@ -159,7 +159,7 @@ Using the Resources
 
 **Note**: Currently the resources are attached to the English ULB, so they are available in BTT Writer only when the English ULB is used as the source text.
 
-All of the Notes, Words and Questions are included in the BTT Writer program. They are available to use in any text project. For additional information on how to use these resources, see `Using the Translation Resources <https://btt-writer.readthedocs.io/en/latest/Helps.html#using-the-translation-resources>`_.
+All of the Notes, Words and Questions are included in the BTT Writer program. They are available to use in any text project. For additional information on how to use these resources, see the Translation Resource section of the Wycliffe Associates Translation Manual at https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/34580d05a9/02-translation%20theory%20and%20practice.html#section-container-5.
 
 The resources are found in the far right pane of the Edit-Review view. To access that view, click the Edit-Review icon that looks like three vertical lines.
 
