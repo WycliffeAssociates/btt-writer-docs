@@ -71,7 +71,7 @@ The Resources pane is divided into three tabs. All of the Translation Notes, Tra
 
 * If there are no resources of one of the types (such as Words), then that tab does not exist on the resources pane (you would see only the Notes and Questions tabs).
 
-For additional help in using the translation resources, see the Translation Resource section of the Wycliffe Associates Translation Manual at https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/34580d05a9/02-translation%20theory%20and%20practice.html#section-container-5.
+For additional help in using the translation resources, see the Translation Resources section of the Wycliffe Associates Translation Manual at https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/34580d05a9/02-translation%20theory%20and%20practice.html#section-container-5.
 
 Slider
 ------
