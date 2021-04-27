@@ -89,7 +89,7 @@ Though Open Bible Stories was not assessed according to this rating system, it s
 
 *	Open Bible Stories is a great tool to teach the church, evangelize the lost, and train the translators in what the Bible is all about.
 
-You can work your way through the Stories in whatever order that you want, but we have found that Story #31 (see http://ufw.io/en-obs-31) is a good first story to translate since it is short and easy to understand.
+You can work your way through the Stories in whatever order that you want, but we have found that Story #31 (see https://door43.org/u/Door43-Catalog/en_obs/master/31.html) is a good first story to translate since it is short and easy to understand.
 
 Conclusion
 -------------
