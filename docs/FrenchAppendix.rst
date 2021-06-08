@@ -15,7 +15,7 @@ Cliquez sur le lien pour télécharger le document sur votre appareil.
      - Links
    
    * - **Instalation** (Installing BTT Writer)
-     - `Android <>`_ 
+     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/1-Installation_BTTWriter-APK.pdf>`_ 
 
    * - **Création d'un compte Serveur pour le Logiciel BTT Writer** (Creating a Server Login)
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/2-Cr%C3%A9ation_d'un_compte_serveur_pour_le_logiciel_BTTWriter.pdf>`_ 
@@ -32,6 +32,8 @@ Cliquez sur le lien pour télécharger le document sur votre appareil.
 
 Power Point Presentations (with PDFs)
 -------------------------------------
+
+Coming Soon!
 
 .. list-table:: **Presentations**
    :widths: 15 10 30
