@@ -37,7 +37,7 @@ Contents:
    dtSupdates
    Helps
    Choosing
-   English Appendix
-   French Appendix
+   EnglishAppendix
+   FrenchAppendix
 
 
