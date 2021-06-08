@@ -43,39 +43,39 @@ Coming Soon!
      - Android
      - Desktop
      
-   * - **Installation**
-     - \* `PowerPoint <>`_ or  `PDF <>`_
+   * - **Commencer** (Installation)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/4-Commencer.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/4-Commencer.pdf>`_
      - \* `PowerPoint <>`_ or  `PDF <>`_
 
-   * - **Starting a New Project**
-     -  \* `PowerPoint <>`_ or `PDF <>`_
+   * - **Commencer un Nouveau Projet** (Starting a New Project)
+     -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/6-Commencer_un_nouveau_projet.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/6-Commencer_un_nouveau_projet.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_ 
 
-   * - **Performing Navigation**
-     - \* `PowerPoint <>`_ or `PDF <>`_
-     - \* `PowerPoint <>`_ or `PDF <>`_
-     
-   * - **Performing Translation**
-     - \* `PowerPoint <>`_ or `PDF <>`_
+   * - **Comment Naviguer** (Navigation)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/5-Comment_Naviguer.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/5-Comment_Naviguer.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
      
-   * - **Translating Footnotes**
-     - \* `PowerPoint <>`_ or `PDF <>`_
+   * - **Effectuer Traduction** (Performing Translation)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/8-Effectuer_traduction.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/8-Effectuer_traduction.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
      
-   * - **Uploading, Exporting, and Importing a Project**
-     - \* `PowerPoint <>`_ or `PDF <>`_
-     - \* `PowerPoint <>`_ or `PDF <>`_
-
-   * - **Changing Program Settings**
-     - \* `PowerPoint <>`_ or `PDF <>`_
+   * - **Traduction des Notes de bas de Page** (Translating Footnotes)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/2-Traduction_des_notes_de_bas_de_page%20.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/2-Traduction_des_notes_de_bas_de_page%20.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
 
-   * - **Updating Program Elements** 
-     - \* `PowerPoint <>`_ or `PDF <>`_
+   * - **Modification des Paramètres du Programme** (Changing Program Settings)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/3-Modification_des_param%C3%A8tres_du_programme.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/3-Modification_des_param%C3%A8tres_du_programme.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
 
-   * - **Making Your Project Accessible**
+   * - **Mise à jour des éléments du Programme** (Updating Program Elements)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/9-Mise_%C3%A0_jour_des_%C3%A9l%C3%A9ments_du_programme.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/9-Mise_%C3%A0_jour_des_%C3%A9l%C3%A9ments_du_programme.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
+
+   * - **Publier un Projet** (Making Your Project Accessible)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/7-Publier_un_projet%20.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/7-Publier_un_projet%20.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
+     
+   * - **Téléchargement Exportation et Importation dun Projet** (Upload)
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/10-T%C3%A9l%C3%A9chargement_Exportation_et_Importation_dun_Projet.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/french_appendices/10-T%C3%A9l%C3%A9chargement_Exportation_et_Importation_dun_Projet.pdf>`_
      - \* `PowerPoint <>`_ or `PDF <>`_
 
