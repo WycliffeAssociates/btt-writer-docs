@@ -15,29 +15,31 @@ Contents:
    
    download
    tablet
-      tStart
-      tNavigate
-      tTranslate
-      tFootnotes
-      tUpload
-      tImport
-      tPublish
-      tSettings
-      ttSUpdates
+   tStart
+   tNavigate
+   tTranslate
+   tFootnotes
+   tUpload
+   tImport
+   tPublish
+   tSettings
+   ttSUpdates
+   
    desktop
-      dStart
-      dNavigate
-      dTranslate
-      dFootnotes
-      dUpload
-      dImport
-      dPublish
-      dSettings
-      dtSupdates
-      Helps
-      Choosing
+   dStart
+   dNavigate
+   dTranslate
+   dFootnotes
+   dUpload
+   dImport
+   dPublish
+   dSettings
+   dtSupdates
+   Helps
+   Choosing
+   
    Appendix
-      EnglishAppendix
-      FrenchAppendix
+   EnglishAppendix
+   FrenchAppendix
 
 
