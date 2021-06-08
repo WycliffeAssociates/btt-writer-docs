@@ -1,4 +1,4 @@
-French Appendix
+French Appendices
 =====
 
 Translator Handouts
