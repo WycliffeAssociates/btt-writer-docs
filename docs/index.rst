@@ -41,5 +41,5 @@ Contents:
    Appendix
    EnglishAppendix
    FrenchAppendix
-
+   LASAppendix
 
