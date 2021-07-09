@@ -56,7 +56,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNavigation.pdf>`_
      
    * - **Ameastrado Traducion** 
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pdf>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pdf>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DTranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DTranslate.pdf>`_
      
    * - **Traduciendo las Notas**
