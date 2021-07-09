@@ -64,7 +64,7 @@ Power Point Presentations (with PDFs)
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DFootnote.pdf>`_  
      
    * - **Cargando, Esportando, Importando Proyecto** 
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pdf>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pdf>`_
+     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pdf>`_
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpload.pdf>`_
 
    * - **Cambiando Ajustes Prgrama**
