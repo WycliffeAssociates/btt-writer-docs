@@ -17,19 +17,19 @@ Use these handouts to give to the mother-tongue translators. This might help the
      - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_AllHandouts.pdf>`_ 
    
    * - **Installing BTT Writer**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_Install_Handout.pdf>`_ 
+     - `Android <>`_ 
 
    * - **Creating a Server Login**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_Login_Handout.pdf>`_ 
+     - `Android <>`_ 
 
    * - **Starting a New Project**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_NewProject_Handout.pdf>`_
+     - `Android <>`_
 
    * - **Navigating**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_Navigation_Handout.pdf>`_
+     - `Android <>`_
 
    * - **Translating**
-     - `Android <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/A_BTTWriter_Translation_Handout.pdf>`_
+     - `Android <>`_
 
 
 Power Point Presentations (with PDFs)
