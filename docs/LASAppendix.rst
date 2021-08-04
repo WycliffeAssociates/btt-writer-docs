@@ -45,37 +45,37 @@ Power Point Presentations (with PDFs)
      
    * - **Iniciando** 
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/1-E_BTT_A-Iniciando.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/1-E_BTT_A-Iniciando.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DGetStarted.pptx>`_ or  `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DGetStarted.pdf>`_
+     - \* `PowerPoint <>`_ or  `PDF <>`_
 
    * - **Empezando un Nuevo Proyecto** 
      -  \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/2-E_BTT_A-Empezando_un_%20nuevo_proyecto.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/2-E_BTT_A-Empezando_un_%20nuevo_proyecto.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNewProject.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNewProject.pdf>`_ 
+     - \* `PowerPoint <>`_ or `PDF <>`_ 
 
    * - **Llevando cabo Navegacion** 
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/3-E_BTT_A-Llevando_cabo_Navegaci%C3%B3n.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/3-E_BTT_A-Llevando_cabo_Navegaci%C3%B3n.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNavigation.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DNavigation.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
      
    * - **Ameastrado Traducion** 
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/4-E_BTT_A-Ameastrado_traducion.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DTranslate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DTranslate.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
      
    * - **Traduciendo las Notas**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/5-E_BTT_A-Traduciendo_las_notas.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/5-E_BTT_A-Traduciendo_las_notas.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DFootnote.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DFootnote.pdf>`_  
+     - \* `PowerPoint <>`_ or `PDF <>`_  
      
    * - **Cargando, Esportando, Importando Proyecto** 
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/9-E_BTT_A-Cargando_Exportando_Importando_Proyecto.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpload.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpload.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
 
    * - **Cambiando Ajustes Prgrama**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/6-E_BTT_A-Cambiando_Ajustes_Programa.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/6-E_BTT_A-Cambiando_Ajustes_Programa.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DChangeSettings.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DChangeSettings.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
 
    * - **Actualizando Elemento Programa**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/7-E_BTT_A-Actualizando_elementos_programa.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/7-E_BTT_A-Actualizando_elementos_programa.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpdate.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DUpdate.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
 
    * - **Publicando Proyecto**
      - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/8-E_BTT_A-Publicando_Proyecto.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/LAS_files/8-E_BTT_A-Publicando_Proyecto.pdf>`_
-     - \* `PowerPoint <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DPublish.pptx>`_ or `PDF <https://github.com/WycliffeAssociates/btt-writer-docs/raw/master/docs/DPublish.pdf>`_
+     - \* `PowerPoint <>`_ or `PDF <>`_
      
