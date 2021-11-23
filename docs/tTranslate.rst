@@ -15,7 +15,7 @@ As you translate, be sure that you:
 
 *	Translate everything that is in the source text language.
 
-*	Do not add anything that that is not necessary for comprehension.
+*	Do not add anything that is not necessary for comprehension.
 
 * Always do your translation according to the Translation Guidelines (see https://read.bibletranslationtools.org/u/WycliffeAssociates/en_tm/dc23f839f6/#translation-guidelines).
 
