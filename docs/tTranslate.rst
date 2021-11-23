@@ -26,7 +26,7 @@ As you translate, be sure that you:
 Create and Edit Text
 --------------------
 
-When you use BTT Writer, you can create and change text. Your work is saved automatically every five minutes. 
+When you use BTT Writer, you can create and change text. Your work is saved automatically every five minutes and also when you exit the application. 
 
 Translate Text
 ^^^^^^^^^^^^^^
